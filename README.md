@@ -1,5 +1,6 @@
 # Video-Games-Analysis
 <br>
+
 ### About the project ###
 
 This project is a guided project from DataCamp (i.e. the data is already prepared and ready to use). The project is about analyzing and getting insights about video games sales, and users and critics reviews. The project's main goal is to answer some questions and get insights about the world of video games with the help of these answers.
