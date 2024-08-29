@@ -7,7 +7,6 @@ This project is a guided project from DataCamp (i.e. the data is already prepare
 
 <img src="https://img.freepik.com/free-vector/set-objects-related-video-games-neon-linear-style_24908-58670.jpg?w=1380&t=st=1675376871~exp=1675377471~hmac=364fe80b35699101a47dcf53d29391555c393215382a26e4bf81e04615c86940
 
-### The project is divided into 4 phases ###  
     
     These visualizations have shown me some insights:
             
